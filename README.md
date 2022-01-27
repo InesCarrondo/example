@@ -33,6 +33,6 @@ Nested list are also available:
 
 You can use task lists - these are useful, for instance, to demonstrate the progress of a certain project or to link to an "issue"
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [x] #1
+- [ ] https://github.com/octo-org/octo-repo/issues/1
 - [ ] Add delight to the experience when all tasks are complete :tada:
