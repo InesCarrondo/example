@@ -15,10 +15,12 @@ Image added from repo - relative path
 
 You can also create lists using the following options
 
-- George Washington
-- John Adams
-- Thomas Jefferson
+- Example 1
+- Example 2
+- Example 3
 
-*example 1
-*example 2
-*example 3
+Or 
+
+1. Example A
+2. Example B
+3. Example C
