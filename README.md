@@ -1,14 +1,15 @@
 
-# The largest heading
-## The second largest heading
-###### The smallest heading
-Text that is not a quote
-
-> Text that is a quote
-
+# Project Name
+## Chapters (if needed)
+###### subchapters (if needed)
+Simple text where you explain the thougt process behind the code
+> Quote text (for instance, if you are referring to a paper)
 
 
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+Image added with https
+![This is an image](https://www.ibet.pt/wp-content/uploads/2020/07/iBET_Full-name-PNG.png)
 
