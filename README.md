@@ -38,3 +38,8 @@ You can use task lists - these are useful, for instance, to demonstrate the prog
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 A lot of emojis are available (https://gist.github.com/rxaviers/7360908) use with professional discretion :smirk:
+
+It is possible to mention other github users (for example, if you collaborated with another team or used a package and want to give credit) 
+We would like to thank @github/support for helping us with the data formating  
+
+
