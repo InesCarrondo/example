@@ -81,6 +81,8 @@ You can also use words, to fit your writing style more closely[^note].
 
 
 This is how you show code:
-    ```ruby
-      puts "Hello World"
-    ```
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
