@@ -66,3 +66,15 @@ You can also use words, to fit your writing style more closely[^note].
 
 *italic*
 **bold**
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
