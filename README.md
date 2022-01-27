@@ -14,5 +14,5 @@ Image added with https
 ![This is an image](https://www.ibet.pt/wp-content/uploads/2020/07/iBET_Full-name-PNG.png)
 
 Image added from repo
-![This is an image](/assets/images/ibetlogo.png)
+![This is an image](/ibetlogo.png)
 
