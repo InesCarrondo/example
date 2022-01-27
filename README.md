@@ -67,7 +67,7 @@ You can also use words, to fit your writing style more closely[^note].
 *italic*
 **bold**
 
-<details><summary>CLICK ME</summary>
+<details><summary>this is a Collapsable section</summary>
 <p>
 
 #### We can hide anything, even code!
@@ -78,3 +78,9 @@ You can also use words, to fit your writing style more closely[^note].
 
 </p>
 </details>
+
+
+This is how you show code:
+    ```ruby
+      puts "Hello World"
+    ```
