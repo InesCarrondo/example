@@ -42,4 +42,18 @@ A lot of emojis are available (https://gist.github.com/rxaviers/7360908) use wit
 It is possible to mention other github users (for example, if you collaborated with another team or used a package and want to give credit) 
 We would like to thank @github/support for helping us with the data formating  
 
+Footnotes are also available as follows: 
 
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
