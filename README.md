@@ -63,3 +63,6 @@ You can also use words, to fit your writing style more closely[^note].
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+*italic*
+**bold**
