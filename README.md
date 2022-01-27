@@ -31,7 +31,7 @@ Nested list are also available:
    - First nested list item
      - Second nested list item
 
-You can use task lists - these are useful, for instance, to demonstrate the progress of a certain project or to link to an "issue"
+You can use task lists - these are useful, for instance, to demonstrate the progress of a certain project or to link to an "issue" 
 
 - [x] #1
 - [ ] https://github.com/InesCarrondo/example/issues/1
