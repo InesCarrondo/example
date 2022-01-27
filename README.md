@@ -36,3 +36,5 @@ You can use task lists - these are useful, for instance, to demonstrate the prog
 - [x] #1
 - [ ] https://github.com/InesCarrondo/example/issues/1
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+A lot of emojis are available (https://gist.github.com/rxaviers/7360908) use with professional discretion :smirk:
