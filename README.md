@@ -72,7 +72,7 @@ You can also use words, to fit your writing style more closely[^note].
 
 #### We can hide anything, even code!
 
-    ```ruby
+    ```
       puts "Hello World"
     ```
 
