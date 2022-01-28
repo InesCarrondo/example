@@ -7,7 +7,7 @@ Simple text where you explain the thougt process behind the code
 
 
 Image added with https
-![This is an image](https://www.ibet.pt/wp-content/uploads/2020/07/iBET_Full-name-PNG.png)
+![This is an image](https://www.ibet.pt/wp-content/uploads/2020/07/iBET_Full-name-PNG.png=250x250)
 
 Image added from repo - relative path
 ![This is an image](/ibetlogo.png)
